@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/ServerPage.js"],"names":["props"],"mappings":"gGAAA,gCAEe,mBAACA,GAEZ,OACI,cAAC,IAAD","file":"static/js/8.d48932a9.chunk.js","sourcesContent":["import React from 'react';\r\nimport Serverlist from '../components/ServerList';\r\nexport default (props) => {\r\n\r\n    return (\r\n        <Serverlist></Serverlist>\r\n    );\r\n}"],"sourceRoot":""}

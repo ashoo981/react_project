@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Home.js"],"names":["props"],"mappings":"gGAAA,uBAEe,mBAACA,GAEZ,OACE","file":"static/js/5.5baed475.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nexport default (props) => {\r\n\r\n    return (\r\n      <>Ana Sayfa</>\r\n    );\r\n}\r\n"],"sourceRoot":""}
